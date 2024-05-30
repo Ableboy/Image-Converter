@@ -21,7 +21,7 @@ Useful for web developers or photographers who need to standardize image formats
 ``` bash
 Copy code
 # Clone the repository
-git clone https://github.com/YourUsername/image-converter.git
+git clone https://github.com/Ableboy/image-converter.git
 
 # Navigate into the project directory
 cd image-converter
